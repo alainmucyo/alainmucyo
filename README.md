@@ -1,15 +1,12 @@
 # Hi there <img src="https://raw.githubusercontent.com/alainmucyo/alainmucyo/develop/wave.gif" width="30px"/>
 
-My name is Alain MUCYO and I'm a software engineer. I'm from Rwanda, currently working in Kigali. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Besides the love for coding stuff, I like Football, I support Liverpool and Barcelona 😎. 
+My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Besides the love for coding stuff, I like Football, I support Liverpool and Barcelona 😎. 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working in Kigali/Rwanda,
+- 🌱 I’m currently focusing on building scalable backend applications and sexy mobile apps,
 - 💬 Ask me about full-stack development and mobile
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
 
 #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
