@@ -32,6 +32,16 @@ My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a cre
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code></code>
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/alainmucyo/alainmucyo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainmucyo&hide=java,go,javascript,typescript,dart&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/alainmucyo/alainmucyo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alainmucyo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a> 
+
+
 #### 📫 How to reach me:
   
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/alainmucyo3)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/alain-mucyo-7b58a917b/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/people/Alain-Mucyo/100007262567735/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/alainmucyo3/)  &nbsp; <a href="mailto:alainmucyo3@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
