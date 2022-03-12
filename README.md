@@ -38,7 +38,7 @@ My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a cre
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alainmucyo&hide=html,blade,css,hack,php,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/alainmucyo/alainmucyo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alainmucyo&show_icons=true&line_height=30&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alain MUCYO's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alainmucyo&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alain MUCYO's GitHub Stats" />
 </a> 
 
 
