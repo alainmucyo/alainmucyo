@@ -47,7 +47,7 @@ My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a cre
 </a> 
 
 
-## My Github Profile Trophy
+## 🏆 My Github Profile Trophy
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=alainmucyo&theme=radical&margin-w=40&margin-h=40)](https://github.com/alainmucyo) -->
 
