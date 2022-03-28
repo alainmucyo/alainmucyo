@@ -54,19 +54,12 @@ My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a cre
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=alainmucyo&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=tokyonight)](https://github.com/alainmucyo)
 <hr>
 
+## 😹 Wanna hear a joke?
 
-<!-- START NEW SECTION -->
-<div align="center">
- <br>
- <p align="centre"><b> Here is a random joke that'll mark your day!</b></p>
- 
- 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
- 
  
 <details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
 <br>
-</div>
 
 
   
