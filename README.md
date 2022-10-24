@@ -2,7 +2,7 @@
 [![Visits Badge](https://badges.pufler.dev/visits/alainmucyo/alainmucyo)](https://badges.pufler.dev/visits/alainmucyo/alainmucyo)
 
 
-My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Besides the love for coding stuff, I like Football, I support Liverpool and Barcelona 😎. 
+My name is Alain MUCYO and I'm a software engineer from Rwanda/Kigali. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Besides the love for coding stuff, I like Football, I support Barcelona 😎. 
 
 
 - 🔭 I’m currently working in Kigali/Rwanda,
